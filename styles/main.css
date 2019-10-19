@@ -1,0 +1,50 @@
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+    background-color:  #935f06;
+}
+
+body {
+    display: grid;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+#byline {
+    text-align: center;
+    font-size: 18px;
+}
+
+p {
+    color: #ffffff;
+}
+
+div {
+    background-color: #fefee7
+    border: 2px;
+}
+
+#GDP {
+    padding-right: 12px;
+}
+
+a {
+    color: #fef5e6;
+    text-align: right;
+}
+a:hover {
+    color: #e7fefe;
+}
+
+a:focus {
+    color: #f7b23b;
+}
+
+a:active {
+    color: #f7b23b;
+}
+
+@media screen and (min-width: 30em)

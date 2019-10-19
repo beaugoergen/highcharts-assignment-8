@@ -14,12 +14,13 @@ body {
 
 /*  the #container div (below) holds ONE chart  */
 #container {
+  width: 400px;
+  height: 300px;
 }
 
 p {
     line-height: 1.5;
 }
-
 
 /* link styles */
 a {
